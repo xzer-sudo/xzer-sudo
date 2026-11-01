@@ -62,7 +62,7 @@
 
 Sou estudante de **Análise e Desenvolvimento de Sistemas**, com foco em construir uma base técnica sólida antes de correr atrás de atalhos.
 
-Meu interesse está na interseção entre **código e infraestrutura**: entender como uma aplicação funciona de ponta a ponta, do primeiro `main()` até o deploy. Por isso estudo **Java** e **Python** em paralelo ao universo de **cloud** — duas linguagens com propósitos diferentes, uma mesma lógica de resolução de problemas.
+Meu interesse está no encontro entre **código e infraestrutura**: entender como uma aplicação funciona de ponta a ponta, do primeiro `main()` até o deploy. Por isso estudo **Java** e **Python** em paralelo ao universo de **cloud** — duas linguagens com propósitos diferentes, uma mesma lógica de resolução de problemas.
 
 Acredito que consistência vence talento. Prefiro entregar algo pequeno e bem feito do que algo grande e pela metade.
 
