@@ -65,3 +65,70 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas**, com foco em constru
 Meu interesse está na interseção entre **código e infraestrutura**: entender como uma aplicação funciona de ponta a ponta, do primeiro `main()` até o deploy. Por isso estudo **Java** e **Python** em paralelo ao universo de **cloud** — duas linguagens com propósitos diferentes, uma mesma lógica de resolução de problemas.
 
 Acredito que consistência vence talento. Prefiro entregar algo pequeno e bem feito do que algo grande e pela metade.
+
+<!-- ==================== TECNOLOGIAS ==================== -->
+<h2 align="left">🛠️ Tecnologias</h2>
+
+<div align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+  <img src="https://img.shields.io/badge/Cloud-FF4500?style=for-the-badge&logo=icloud&logoColor=white" alt="Cloud"/>
+</div>
+
+<br/>
+
+<!-- ==================== GITHUB STATS ==================== -->
+<h2 align="left">📊 GitHub Stats</h2>
+
+<div align="center">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=marxcamilo&show_icons=true&theme=radical&title_color=FF4500&icon_color=FF4500&text_color=c9d1d9&bg_color=0D1117&border_color=FF4500&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marxcamilo&layout=compact&theme=radical&title_color=FF4500&text_color=c9d1d9&bg_color=0D1117&border_color=FF4500&langs_count=8" alt="Top Languages"/>
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=marxcamilo&theme=radical&background=0D1117&border=FF4500&stroke=FF4500&ring=FF4500&fire=E63946&currStreakLabel=FF4500&sideLabels=c9d1d9&dates=8b949e" alt="GitHub Streak"/>
+</div>
+
+<br/>
+
+<!-- ==================== SNAKE ==================== -->
+<h2 align="left">🐍 Contribuições</h2>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/marxcamilo/marxcamilo/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/marxcamilo/marxcamilo/output/github-contribution-grid-snake.svg">
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/marxcamilo/marxcamilo/output/github-contribution-grid-snake.svg" width="100%">
+  </picture>
+</div>
+
+<br/>
+
+<!-- ==================== REDES SOCIAIS ==================== -->
+<h2 align="left">🌐 Vamos conversar</h2>
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/marx-camilo-b38738423" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://instagram.com/mb_camiloo" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://github.com/marxcamilo" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</div>
+
+<br/>
+
+<!-- ==================== RODAPÉ ==================== -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,50:E63946,100:FF4500&height=120&section=footer&text=Obrigado%20pela%20visita!&fontSize=20&fontColor=FFFFFF&fontAlignY=70" width="100%" alt="Footer"/>
+</div>
+
+<div align="center">
+  <sub>Feito com dedicação por <strong>Marx Camilo</strong> · <em>"Aprender todo dia, construir sempre."</em></sub>
+</div>
