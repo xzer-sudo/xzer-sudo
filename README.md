@@ -7,8 +7,9 @@
 
 
 <!-- ────────────────────── TYPING ANIMATION ────────────────────────── -->
+<div align="center">
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=650&lines=Estudante+de+ADS+%F0%9F%8E%93;Java+%2B+Python+%2B+Cloud;Construindo+base+s%C3%B3lida%2C+um+commit+por+vez;Sempre+aprendendo+algo+novo" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=1F6FEB&center=true&vCenter=true&width=650&lines=Estudante+de+ADS+%F0%9F%8E%93;Java+%2B+Python+%2B+Cloud;Construindo+base+s%C3%B3lida%2C+um+commit+por+vez;Sempre+aprendendo+algo+novo" alt="Typing SVG" />
 </a>
 
 </div>
