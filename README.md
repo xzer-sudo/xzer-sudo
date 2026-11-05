@@ -28,7 +28,7 @@ Busco minha primeira oportunidade — estágio ou posição júnior — para con
 
 - 🎓 Cursando Análise e Desenvolvimento de Sistemas no **Senai** — 2º semestre
 - 🎯 Objetivo: atuar como desenvolvedor back-end, com foco em APIs, banco de dados e boas práticas
-- 🧠 Estudando atualmente: Java, Python e modelagem de banco de dados relacional
+- 🧠 Estudando atualmente: Java, Python, modelagem de banco de dados (conceitual e relacional), algoritmos e programação orientada a objetos
 - 📍 Parnamirim/RN — aberto a remoto, híbrido e presencial
 - 💬 Idiomas: Português (nativo), Inglês (leitura técnica)
 
